@@ -4,4 +4,6 @@
 -- See the kickstart.nvim README for more information
 return {
   "ray-x/starry.nvim",
+  "nvim-neo-tree/neo-tree.nvim",
+  "MunifTanjim/nui.nvim",
 }
